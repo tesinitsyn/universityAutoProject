@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ae223fa-0dc4-42f9-a78c-282f5655b360" name="Changes" comment="just first commit" />
+    <list default="true" id="5ae223fa-0dc4-42f9-a78c-282f5655b360" name="Changes" comment="just first commit">
+      <change afterPath="$PROJECT_DIR$/src/main/front/fxml/applicationGUI.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,12 +36,21 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/uProject/universityAutoProject",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\uProject\universityAutoProject\src\main\java\org\example" />
+      <recent name="C:\uProject\universityAutoProject\src\main\front\fxml" />
+      <recent name="C:\uProject\universityAutoProject\src\main\front" />
+      <recent name="C:\uProject\universityAutoProject\src\main" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,6 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663598827021</updated>
       <workItem from="1663598829173" duration="1655000" />
+      <workItem from="1663602141980" duration="277000" />
     </task>
     <task id="LOCAL-00001" summary="just first commit">
       <created>1663600051870</created>
