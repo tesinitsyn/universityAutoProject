@@ -4,18 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ae223fa-0dc4-42f9-a78c-282f5655b360" name="Changes" comment="just first commit" />
+    <list default="true" id="5ae223fa-0dc4-42f9-a78c-282f5655b360" name="Changes" comment="just first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,7 +49,6 @@
       <option name="presentableId" value="Default" />
       <updated>1663598827021</updated>
       <workItem from="1663598829173" duration="1655000" />
-      <workItem from="1663601956892" duration="351000" />
     </task>
     <task id="LOCAL-00001" summary="just first commit">
       <created>1663600051870</created>
@@ -63,14 +57,7 @@
       <option name="project" value="LOCAL" />
       <updated>1663600051870</updated>
     </task>
-    <task id="LOCAL-00002" summary="just first commit">
-      <created>1663602289252</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1663602289252</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
