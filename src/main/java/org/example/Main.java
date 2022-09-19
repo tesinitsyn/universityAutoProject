@@ -34,6 +34,66 @@ public class Main {
         UpdateDocument objUpdateWord = new UpdateDocument();
         String inputPath = "D:\\wrdfiles\\Титулы практики.docx";
         String outputPath = "D:\\wrdfiles\\projecttest.docx";
-        objUpdateWord.updateDocument(inputPath, outputPath, "Морозов", "Солянов");
+        for(int i = 0; i < replaceableNames.size(); i++){
+            switch (replaceableNames.get(i)){
+                case "${instituteName}":
+                    objUpdateWord.updateDocument(inputPath, outputPath, "${instituteName}", instituteName);
+                    break;
+                case "${departmentName}":
+                    objUpdateWord.updateDocument(inputPath, outputPath, "${departmentName}", departmentName);
+                    break;
+                case "${practiceName}":
+                    objUpdateWord.updateDocument(inputPath, outputPath, "${practiceName}", practiceName);
+                    break;
+                case "${orderDate}":
+                    objUpdateWord.updateDocument(inputPath, outputPath, "${orderDate}", orderDate);
+                    break;
+                case "${orderName}":
+                    objUpdateWord.updateDocument(inputPath, outputPath, "${orderName}", orderName);
+                    break;
+                case "${sessionDate}":
+                    objUpdateWord.updateDocument(inputPath, outputPath, "${sessionDate}", sessionDate);
+                    break;
+                case "${studentFN}":
+                    objUpdateWord.updateDocument(inputPath, outputPath, "${studentFN}", studentFN);
+                    break;
+                case "${supervisorFN}":
+                    objUpdateWord.updateDocument(inputPath, outputPath, "${supervisorFN}", supervisorFN);
+                    break;
+                case "${currentYear}":
+                    objUpdateWord.updateDocument(inputPath, outputPath, "${currentYear}", currentYear);
+                    break;
+                case "${courseNum}":
+                    objUpdateWord.updateDocument(inputPath, outputPath, "${courseNum}", courseNum);
+                    break;
+                case "${groupName}":
+                    objUpdateWord.updateDocument(inputPath, outputPath, "${groupName}", groupName);
+                    break;
+                case "${studentFullName}":
+                    objUpdateWord.updateDocument(inputPath, outputPath, "${studentFullName}", studentFullName);
+                    break;
+                case "${practicePlaceAndTime}":
+                    objUpdateWord.updateDocument(inputPath, outputPath, "${practicePlaceAndTime}", practicePlaceAndTime);
+                    break;
+                case "${position}":
+                    objUpdateWord.updateDocument(inputPath, outputPath, "${position}", position);
+                    break;
+                case "${currentDate}":
+                    objUpdateWord.updateDocument(inputPath, outputPath, "${currentDate}", currentDate);
+                    break;
+                case "${headOfDFN}":
+                    objUpdateWord.updateDocument(inputPath, outputPath, "${headOfDFN}", headOfDFN);
+                    break;
+                case "${directionNum}":
+                    objUpdateWord.updateDocument(inputPath, outputPath, "${directionNum}", directionNum);
+                    break;
+                case "${directionName}":
+                    objUpdateWord.updateDocument(inputPath, outputPath, "${directionName}", directionName);
+                    break;
+                case "${profileName}":
+                    objUpdateWord.updateDocument(inputPath, outputPath, "${profileName}", profileName);
+                    break;
+            }
+        }
     }
 }
