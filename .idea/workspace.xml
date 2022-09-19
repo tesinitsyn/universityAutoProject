@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ae223fa-0dc4-42f9-a78c-282f5655b360" name="Changes" comment="bibon's dead" />
+    <list default="true" id="5ae223fa-0dc4-42f9-a78c-282f5655b360" name="Changes" comment="just first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663598827021</updated>
       <workItem from="1663598829173" duration="1655000" />
-      <workItem from="1663601956892" duration="865000" />
+      <workItem from="1663601956892" duration="351000" />
     </task>
     <task id="LOCAL-00001" summary="just first commit">
       <created>1663600051870</created>
@@ -70,14 +70,7 @@
       <option name="project" value="LOCAL" />
       <updated>1663602289252</updated>
     </task>
-    <task id="LOCAL-00003" summary="bibon's dead">
-      <created>1663602560899</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1663602560899</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,7 +89,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="just first commit" />
-    <MESSAGE value="bibon's dead" />
-    <option name="LAST_COMMIT_MESSAGE" value="bibon's dead" />
+    <option name="LAST_COMMIT_MESSAGE" value="just first commit" />
   </component>
 </project>
